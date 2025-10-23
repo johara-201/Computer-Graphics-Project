@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parameters>
+    <modelFileName>C:\Users\johar\Desktop\computer graphics\GraphicsWorkspace\Rasterization\Models\models_without_textures\teddy.obj</modelFileName>
+    <saveImagePath>./Models/</saveImagePath>
+    <projectionType>ORTHOGRAPHIC</projectionType>
+    <displayType>LIGHTING_GOURARD</displayType>
+    <displayNormals>false</displayNormals>
+    <exercise>EX_9___Lighting</exercise>
+</parameters>
