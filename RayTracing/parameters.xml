@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parameters>
+    <modelFileName>C:\Users\johar\Desktop\computer graphics\GraphicsWorkspace\RayTracing\Models\ex_08___FewSphereWithGround.model</modelFileName>
+    <saveImagePath>./</saveImagePath>
+    <depthOfRayTracing>8</depthOfRayTracing>
+    <exercise>EX_8___Transparency</exercise>
+</parameters>
